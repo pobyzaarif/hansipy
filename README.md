@@ -4,7 +4,7 @@ Hansipy, apache log access analyzer for detection and prevention of web attack. 
 
 ## How it works
 Hansipy is basically using string signature and matches each lines from the apache log access. these pattern has been chosen manually from whitepaper SANS Institute titled "How to identify malicious HTTP Requests". you can found this paper here https://www.sans.org/reading-room/whitepapers/detection/identify-malicious-http-requests-34067
-I also put shell/backdoor scanner using name of shell/backdoor database from emposha project called "PHP-Shell-Detector". visit emphosa project about Web Shell Detector here https://www.sans.org/reading-room/whitepapers/detection/identify-malicious-http-requests-34067
+I also put shell/backdoor scanner using name of shell/backdoor database from emposha project called "PHP-Shell-Detector". visit emphosa project about Web Shell Detector https://github.com/emposha/PHP-Shell-Detector
 Hansipy write in simple python script using method generator, simple function like if-else, for, and more. Output will be shown on your terminal also reported to your database and display onto web browser by php script. add sorting menu features for easy analysis.
 
 ## Instalation
@@ -24,7 +24,7 @@ bit.ly/7noob
 ## Demo
 http://www.website.com/hansipy/
 
-## Rule 
+## Rule
 - rule_01 : Cross-Site Scripting
 - rule_02 : SQL Injection
 - rule_03 : Insecure Direct Object Reference
