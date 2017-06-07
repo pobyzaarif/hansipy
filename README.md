@@ -40,3 +40,15 @@ http://www.website.com/hansipy/
 - 1.2 rule, script structure changed.
 - 1.1 report to csv_file, some pattern added.
 - 1.0 first version.
+
+## TODO List
+- add requirement (create automatically installation)
+- add more pattern (continous looping)
+- add option to run hansipy (use args / user friendly)
+- edit view hansipy report (css)
+- add login page
+- add paging
+- add graph view
+- add anomaly-based detection
+- try use regex
+- TBD
