@@ -81,6 +81,7 @@ configure         text eol=lf
 *.htm             text
 *.html            text
 *.ini             text
+*.log.1           text
 *.log             text
 *.mak             text
 *.qbk             text
