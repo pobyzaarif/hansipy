@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Log Folder
+hansipy/apache2/access.log*
