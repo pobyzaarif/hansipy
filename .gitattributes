@@ -1,1 +1,15 @@
-hansipy/apache2/* linguist-documentation
+*.log text
+*.log.1 text
+*.ods diff=odf
+*.odt diff=odf
+*.odp diff=odf
+*.pdf diff=pdf
+*.PDF diff=pdf
+*.apk diff=apk
+*.bz2 diff=bz2
+*.gz  diff=gzip
+*.zip diff=zip
+*.tar diff=tar
+*.tgz diff=tar-gz
+*.tar.gz  diff=tar-gz
+*.tar.bz2 diff=tar-bz2
